@@ -17,6 +17,9 @@
 
 @implementation RootViewController
 
+//here's another addition to the code after committing to the master 8/19/16
+//this is where I'm going to add my really cool feature
+
 @synthesize modelController = _modelController;
 
 - (void)viewDidLoad {
